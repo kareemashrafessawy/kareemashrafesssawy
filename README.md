@@ -2,7 +2,7 @@
 - 🎓 I'm a student  
 - 🐍 I'm currently working with **Python**  
 - 🌐 I can create basic and responsive web pages
-- 📡 I have basic knowledge about building IoT systems
+- 📡 I have the basic knowledge about building IoT systems
 - 🌱 I'm still learning many new skills every day  
 - 🤝 I'm looking to collaborate on cool projects  
 - 💬 Ask me about anything!  
